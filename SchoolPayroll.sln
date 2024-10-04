@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SchoolPayroll", "D:\RMCCORITD-DT004\Project\SchoolPayroll\", "{0BBF7044-54FE-4103-AF34-6C1074B41F37}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60226"
+		Debug.AspNetCompiler.PhysicalPath = "D:\RMCCORITD-DT004\Project\SchoolPayroll\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60226\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60226"
+		Release.AspNetCompiler.PhysicalPath = "D:\RMCCORITD-DT004\Project\SchoolPayroll\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60226\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60226"
+		SlnRelativePath = "D:\RMCCORITD-DT004\Project\SchoolPayroll\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBF7044-54FE-4103-AF34-6C1074B41F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBF7044-54FE-4103-AF34-6C1074B41F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {933B9114-9CF6-489C-BDB7-AB7300EE5D67}
+	EndGlobalSection
+EndGlobal
